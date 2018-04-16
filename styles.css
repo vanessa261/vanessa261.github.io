@@ -1,0 +1,53 @@
+p {
+    color:  black; font-family: Arial
+}
+
+a:link {
+    background-color: white;
+    padding: 20px;
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:visited {
+    background-color: pink;
+    padding: 20px;
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    background-color: black;
+    padding: 20px;
+    display: inline-block;
+    list-style-type: none;
+    font-size:150%;
+    text-decoration: none;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    display: inline-block; 
+    text-align: center;
+}
+a:{
+background-repeat: no-repeat;
+background-position: right;
+padding-right: 32px;
+padding-left: 32px;
+display: block;
+line-height: 80px;
+text-decoration: none;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 21px;
+}
+body {background-image: url(http://anaka.com.au/wp-content/uploads/b6bf8ba05863ab6b05794502f15798dd.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
